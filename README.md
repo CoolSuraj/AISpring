@@ -1,2 +1,11 @@
 # AISpring
 This is AI Study Repo along with info and project 
+
+Token:
+Simmilar to english word of 4-5 charachters to identify text used by AI , it is fundamental of AI 
+https://platform.openai.com/tokenizer // Check yourself
+<img width="928" height="729" alt="image" src="https://github.com/user-attachments/assets/f41b40a2-ed43-400c-a063-b11a537af1a9" />
+<img width="807" height="617" alt="image" src="https://github.com/user-attachments/assets/c95e7180-2cbf-489a-9b28-2b11396515b2" />
+
+Output generally cost more than input token. Companies generally charge cost per million tokens and We have to use AI in such a way that it will be in budget.
+
