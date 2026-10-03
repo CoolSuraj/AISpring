@@ -31,3 +31,14 @@ When AI processes the word "King", it becomes Token ID 7948. The word "Monarch" 
 Here's the issue: to the computer, these are just numbers. The IDs 7948 and 32541 have no mathematical relationship - they're as unrelated as 7948 and 1,000,000.
 
 But we humans know that "King" and "Monarch" mean almost the same thing!
+
+Problem 2: Context Blindness
+
+The word "bank" gets the same token ID whether it means:
+
+A financial institution ("I deposited money at the bank")
+The side of a river ("We sat on the river bank")
+
+Same token, completely different meanings. The AI is blind to context.
+
+This is why we need vectors - to capture meaning, not just identity.
