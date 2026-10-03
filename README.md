@@ -15,3 +15,4 @@ Normal Chat can take less token , RAG or doc process will take more.
 The Bank in English means 2 meaning 1. Financial 2. River side
 So to check the correct meaning it will check Vector Embedding in that 1536 dimensions are there , Map co-ordinates have 2 so that's huge !! So We can find the elemnent is used in what context.
 
+https://www.pinecone.io/learn/vector-embeddings/
