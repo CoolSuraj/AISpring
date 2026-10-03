@@ -42,3 +42,13 @@ The side of a river ("We sat on the river bank")
 Same token, completely different meanings. The AI is blind to context.
 
 This is why we need vectors - to capture meaning, not just identity.
+
+
+Measuring Similarity with Distance
+The distance between points tells us how similar the meanings are:
+
+For example: the king and prince have let's say distance as 0.03 which means they are similar words
+
+This is called Semantic Similarity - measuring meaning by distance in vector space.
+
+Now we can compare meanings mathematically!
