@@ -17,3 +17,7 @@ So to check the correct meaning it will check Vector Embedding in that 1536 dime
 
 https://www.pinecone.io/learn/vector-embeddings/
 Visualize : https://projector.tensorflow.org/
+
+
+This chapter will show you how AI converts words into numbers that capture meaning, enabling powerful features like semantic search and RAG systems.
+Important note: Vectors and embeddings are the same thing in AI. We'll use both terms interchangeably throughout this course.
