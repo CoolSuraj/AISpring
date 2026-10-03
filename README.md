@@ -21,3 +21,13 @@ Visualize : https://projector.tensorflow.org/
 
 This chapter will show you how AI converts words into numbers that capture meaning, enabling powerful features like semantic search and RAG systems.
 Important note: Vectors and embeddings are the same thing in AI. We'll use both terms interchangeably throughout this course.
+
+The Problem: Tokens Have No Meaning
+
+Let's start with the fundamental problem that embeddings solve.
+
+When AI processes the word "King", it becomes Token ID 7948. The word "Monarch" becomes Token ID 32541.
+
+Here's the issue: to the computer, these are just numbers. The IDs 7948 and 32541 have no mathematical relationship - they're as unrelated as 7948 and 1,000,000.
+
+But we humans know that "King" and "Monarch" mean almost the same thing!
