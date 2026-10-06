@@ -59,4 +59,6 @@ Transformers: now even though we got some relationship but binding all the meani
 
 https://poloclub.github.io/transformer-explainer/
 
+The Imp thing that lead AI-- https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+
 for each token there is key/value/Query assigned 
