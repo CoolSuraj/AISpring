@@ -52,3 +52,11 @@ For example: the king and prince have let's say distance as 0.03 which means the
 This is called Semantic Similarity - measuring meaning by distance in vector space.
 
 Now we can compare meanings mathematically!
+
+
+
+Transformers: now even though we got some relationship but binding all the meaning and predicating is something we need to do for that we use Transaformers.
+
+https://poloclub.github.io/transformer-explainer/
+
+for each token there is key/value/Query assigned 
